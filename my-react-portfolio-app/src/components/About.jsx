@@ -1,4 +1,4 @@
-import img from "../assets/Ultimatelogo1.2.png";
+import img from "../assets/bryan2.jpg";
 
 const About = () => {
   return (
@@ -22,10 +22,10 @@ const About = () => {
           About me
         </h1>
         <p data-aos="fade-left" className="text-justify">
-          I&apos;m a motivated, committed, dedicated, and
-          hardworking individual. I do task or things that are towards achieving
-          my targets and always persistent in accomplishing them well. I hold
-          two Bachelor&apos;s Degrees: one in Computer Engineering obtained from
+          I&apos;m a motivated, committed, dedicated, and hardworking
+          individual. I do task or things that are towards achieving my targets
+          and always persistent in accomplishing them well. I hold two
+          Bachelor&apos;s Degrees: one in Computer Engineering obtained from
           Aquinas University of Legazpi on March 31, 2015, and the other in
           Information Technology from STI College of Legazpi on April 26, 2019.
           I had the privilege of participating in online training program
