@@ -25,12 +25,15 @@ const About = () => {
           I&apos;m a motivated, committed, dedicated, and hardworking
           individual. I do task or things that are towards achieving my targets
           and always persistent in accomplishing them well. I hold two
-          Bachelor&apos;s Degrees: one in Computer Engineering obtained from
-          Aquinas University of Legazpi on March 31, 2015, and the other in
-          Information Technology from STI College of Legazpi on April 26, 2019.
+          Bachelor&apos;s Degrees: one in Computer Engineering which I obtained at
+          Aquinas University of Legazpi on March 31, 2015, and the other one in
+          Information Technology at STI College of Legazpi on April 26, 2019.
           I had the privilege of participating in online training program
           facilitated by the Alvarez Foundation in collaboration with a coding
           school, where I was fortunate to receive a scholarship. Additionally,
+          I have completed the six months online training on fullstack web development (from January 29, 2024 - July 19, 2024)
+          conducted by the Uplift Code Camp which I learned HTML, CSS, JavaScript, ReactJS,
+          node, express, MongoDB, and tailwind CSS.
           other training programs and online courses have given me the
           opportunity to develop basic skills in languages such as Java, Python,
           C#, JavaScript, and markup languages like HTML5 and CSS. I have also
