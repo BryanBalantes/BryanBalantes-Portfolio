@@ -166,8 +166,8 @@ const Projects = () => {
             </h5>
             <p className="mt-1 text-slate-400">Description:</p>
             <p className="mt-1 text-white">
-              This is one of our code along projects. We used React.js, Tailwind
-              CSS3, MongoDB, Node.js, JWT, Socket.
+              This is one of my code-along projects, where I used React.js,
+              Tailwind CSS, MongoDB, Node.js, JWT, and Socket.
             </p>
             <div className="flex justify-center items-center gap-5">
               <button className="shadow-xl hover:shadow-fuchsia-800/50 text-white border-2 hover:bg-fuchsia-800 border-fuchsia-800 rounded-lg py-1 px-1 mt-5 uppercase relative overflow-hidden ">
